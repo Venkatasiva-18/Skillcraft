@@ -1,1 +1,28 @@
 /build/
+IDEs and editors
+.idea/
+.vscode/
+
+# Build directories
+/target/
+/out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+
+# MySQL Database
+*.sql
+*.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
